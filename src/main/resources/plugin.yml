@@ -1,0 +1,4 @@
+name: UI
+version: '${version}'
+main: io.github.yotutxt.UI.UIPlugin
+api-version: 1.18
